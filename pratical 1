@@ -53,3 +53,13 @@ float percentage;
  s.displayDetails();
  return 0;
  }
+Expected output 
+Enter Roll Number: 101 
+Enter Name: John Doe 
+Enter marks for 3 subjects: 85 78 92 
+----- Student Details----
+Roll Number: 101
+Name: John Doe
+Marks: 85 78 92 
+Total Marks: 255 10 Percentage: 85% 
+Result: First Clas
