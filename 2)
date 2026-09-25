@@ -34,3 +34,9 @@
  rect.display(); 
  return 0; 
  }
+Expected output 
+Enter length and breadth: 10 5 
+Length: 10  
+Breadth: 5 
+Area: 50 
+ Perimeter: 30
